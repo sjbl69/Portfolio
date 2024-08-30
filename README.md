@@ -9,8 +9,8 @@ Ce portfolio est un site web personnel qui affiché de manière moderne et adapt
  ✨ Fonctionnalités
 
 - **Design Responsive :** Adaptation automatique à tous les types d'écrans. 📐
-- **Présentation des Projets :** Affichage de mes projets avec des descriptions et des liens vers des démonstrations ou des dépôts GitHub. 📁🔗
 - **Compétences :** Liste de mes compétences techniques avec des graphiques pour une meilleure visualisation. 📊
+- **Formations :** Liste de mes formations théoriques. 📊
 - **Contact :** Formulaire de contact pour les opportunités de collaboration ou les questions. 📧🤝
 - **Animations :** Animations et transitions élégantes pour une meilleure expérience utilisateur. 🎞️✨
 
