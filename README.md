@@ -14,6 +14,8 @@ Ce portfolio est un site web personnel qui affiché de manière moderne et adapt
 - **Contact :** Formulaire de contact pour les opportunités de collaboration ou les questions. 📧🤝
 - **Animations :** Animations et transitions élégantes pour une meilleure expérience utilisateur. 🎞️✨
 
+- ( Changements à réaliser ) 
+
 🔧 Technologies Utilisées
 
 HTML : Structure et sémantique du contenu. 🏗️
